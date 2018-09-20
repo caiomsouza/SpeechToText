@@ -11,6 +11,5 @@ https://pypi.org/project/SpeechRecognition/
 # Demo
 
 ![Demo](https://github.com/caiomsouza/SpeechToText/blob/master/SpeechToText.PNG)
-Format: ![Alt Text](url)
 
 
